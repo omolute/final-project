@@ -166,7 +166,7 @@ header > a{
         font-size: 14px;
     }
     header{
-        padding: 10px 50px;
+        padding: 10px 30px;
     }
     .nav_content{
         display: none;
@@ -208,7 +208,7 @@ header > a{
         font-size: medium;
     }
     .section{
-        padding: 50px;
+        padding: 50px 30px;
     }
     .intro{
         flex-direction: column-reverse;
