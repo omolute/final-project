@@ -133,6 +133,19 @@ header > a{
     padding: 15px;
     border-radius: 0.5rem;
 }
+.ex_pix{
+    width: 20%;
+}
+.ex_pix img{
+    width: 100%;
+    height: fit-content;
+}
+.ex_pix  img:hover{
+    scale: 110%;
+}
+.ex_text{
+    width: 80%;
+}
 .ex_text > a{
     font-weight: 700;
     font-size: x-large;
