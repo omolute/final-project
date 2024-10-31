@@ -255,6 +255,10 @@ header > a{
         width: 100%;
         height: fit-content;
     }
+    .ex_pix{
+        width: 100%;
+        height: fit-content;
+    }
     .ex_details{
         flex-direction: column;
         width: 100%;
